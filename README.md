@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Intelexia
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python.
+Hello! I'm Intelexia.
 
 <!---
 Intelexia/Intelexia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
