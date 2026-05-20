@@ -1,4 +1,4 @@
-Hello! I'm brrpy.
+your average c++ user
 
 <!---
 Intelexia/Intelexia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
